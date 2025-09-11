@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+cafe_rl_venv/
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Large binaries
+*.zip
+
